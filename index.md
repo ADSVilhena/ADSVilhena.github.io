@@ -1,4 +1,8 @@
-# Projetos Pedagógicos de Curso
+# Projetos Pedagógicos de Curso (PPC)
+O PPC é um documento que contextualiza e concebe o curso. Ele serve como principal referência para o coordenador de curso e o Núcleo Docente Estruturante. Dada sua importância, aconselha-se que os acadêmicos conhençam o conteúdo deste documento.
+
+ - [PPC 2016 a 2017](https://drive.google.com/file/d/1SO7jyiR0_I3PXQCwLWOhWoruCsze3EsL/view?usp=sharing)
+ - PPC a partir de 2018
 
 ## Matriz Curricular
 Atualmente, existem duas matrizes curriculares em execução no curso. A primeira matriz teve início no ano de 2016 e está sendo executada pelos acadêmicos que ingressaram nos anos 2016 e 2017. A segunda matriz, fruto de uma reestruturação que visa executar um curso de maior qualidade, teve início em 2018. Esta matriz será executada pelos acadêmicos que ingressaram no ano de 2018 ou anos posteriores.
@@ -11,7 +15,7 @@ Os acadêmicos que executam a Matriz do ano de 2016 não possuem pré-requisitos
 Os pré-requisitos para a Matriz 2018 podem ser acessados [aqui](prerequisitos2018.md).
 
 ## Trabalho de Conclusão de Curso (TCC)
-A matricula do aluno no Trabalho de Conclusão de Curso está vinculada ao cumprimento de pelo menos 75% dos demais componentes curriculares quando o prazo de início não estiver expresso no Projeto Pedagógico do Curso. Em termos práticos, isto significa que os acadêmicos podem se matricular no TCC a partir do quinto semestre do curso, desde que tenham cumprido todas as disciplinas anteriores, ou a partir do momento que tiverem cumprido 28 das 37 disciplinas para os alunos que ingressaram em 2016 e 2017, ou 26 das 34 disciplinas para os alunos que ingressaram a partir de 2018.
+A matrícula do aluno no Trabalho de Conclusão de Curso está vinculada ao cumprimento de pelo menos 75% dos demais componentes curriculares quando o prazo de início não estiver expresso no Projeto Pedagógico do Curso. Em termos práticos, isto significa que os acadêmicos podem se matricular no TCC a partir do quinto semestre do curso, desde que tenham cumprido todas as disciplinas anteriores, ou a partir do momento que tiverem cumprido 28 das 37 disciplinas para os alunos que ingressaram em 2016 e 2017, ou 26 das 34 disciplinas para os alunos que ingressaram a partir de 2018.
 
 Em conformidade com o [regulamento da instituição](https://drive.google.com/file/d/1Y7W--bNQhib6z3BuQVvPQE4Oe_ZYrqBN/view?usp=sharing){:target="_blank"}, o Trabalho de Conclusão de Curso é uma atividade curricular pautada em atividades devidamente orientadas por profissionais lotados no âmbito do curso segundo o predisposto no regulamento da instituição. No caso específico deste curso, o Trabalho de Conclusão de Curso tem duração mínima de 80 horas e constitui-se na elaboração de uma solução tecnológica para um problema com consequente elaboração de trabalho escrito pelo aluno com coautoria do professor orientador a ser apresentado e avaliado perante banca examinadora, de acordo com o regulamento da Instituição. O trabalho escrito deverá seguir as modalidades previstas no regulamento da instituição.
 
@@ -33,10 +37,26 @@ O Estagio Curricular terá por objetivo propiciar ao aluno, uma experiência pro
 Os acadêmicos que ingressaram no curso nos anos de 2016 e 2017 são considerados aptos a estagiar a partir do terceiro semestre do curso. Os acadêmicos que ingressaram em 2018 ou posterior são considerados aptos a estagiar a partir do início do quarto semestre do curso.
 
 ### Aproveitamento das Atividades Profissionais
-o estudante que exercer atividade profissional correlata ao seu curso na condição de empregado, empresário ou autônomo, poderá solicitar, no momento em que se exige o cumprimento do Estágio Obrigatório no respectivo curso, o aproveitamento das atividades profissionais como Estágio Obrigatório [+ leia mais](https://drive.google.com/file/d/1is99LyOYpzHprO--sNzq8HeohDBxL2Hi/view?usp=sharing).
+O estudante que exercer atividade profissional correlata ao seu curso na condição de empregado, empresário ou autônomo, poderá solicitar, no momento em que se exige o cumprimento do Estágio Obrigatório no respectivo curso, o aproveitamento das atividades profissionais como Estágio Obrigatório [+ leia mais](https://drive.google.com/file/d/1is99LyOYpzHprO--sNzq8HeohDBxL2Hi/view?usp=sharing).
+
+### Equiparação de Atividades como Estágio
+O estudante que desenvolver atividades de extensão, extensão tecnológica, monitoria, pesquisa ou iniciação científica e tecnológica, poderá solicitar a equiparação da atividade como estágio obrigatório.
+
+A equiparação de atividades de extensão, extensão tecnológica monitoria, pesquisa ou iniciação científica e tecnológica como estágio obrigatório deverá ser solicitada pelo estudante, via requerimento, na Coordenação de Integração Escola, Empresa e Comunidade ­ CIEEC do *campus*. Para mais informações, por favor, consulte o [Regulamento de Estágio](https://drive.google.com/file/d/1is99LyOYpzHprO--sNzq8HeohDBxL2Hi/view?usp=sharing).
 
 ## Atividades Complementares
-As Atividades Complementares são normatizadas pelo [Regulamento da Organização Acadêmica](https://drive.google.com/file/d/1aS53bX3Jtn9dZ53lZ-kEr864NhK9PAyz/view?usp=sharing).
+As Atividades Complementares são normatizadas pelo [Regulamento da Organização Acadêmica](https://drive.google.com/file/d/1aS53bX3Jtn9dZ53lZ-kEr864NhK9PAyz/view?usp=sharing). No âmbito deste curso, como pré-requisito para a colação de grau, o acadêmico deve apresentar comprovação de 100 horas de atividades complementares realizadas posterior ao ingresso no curso, respeitando os eixos e limites estabelecidos no [Regulamento da Organização Acadêmica](https://drive.google.com/file/d/1aS53bX3Jtn9dZ53lZ-kEr864NhK9PAyz/view?usp=sharing). 
+
+Atualmente, o professor coordenador das Atividades Complementares é o professor Marco Antônio Augusto de Andrade.
+
+
+## Representante Discente
+O representante discente é o acadêmico que representa os acadêmicos no Colegiado de Classe. Trata-se de um discente regular do curso, escolhido entre seus pares, para mandato de um ano. O processo de escolha do representante discente deve prever o representante titular e um suplente.
+
+Atualmente, os representantes discentes do curso, com mandato até 25 de novembro de 2018, são:
+
+ - Rodrigo Felippe Alves Cabral  - Titular ([email](mailto:rodrigofelippeac@gmail.com))
+ - Neroni Brito Campos - Suplente - Suplente
 
 <!-- You can use the [editor on GitHub](https://github.com/ADSVilhena/ADSVilhena.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
