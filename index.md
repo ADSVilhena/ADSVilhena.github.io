@@ -7,6 +7,14 @@ O Trabalho de Conclusão de Curso é controlado pela coordenação de curso atra
 2. [Termo de Aceite de Orientação](https://drive.google.com/file/d/16Vlzgi8sV7i6o7LftX6brEeKzP5aBwSZ/view?usp=sharing){:target="_blank"}
 3. [Termo de Compromisso do Cursista](https://drive.google.com/file/d/1o1OWNuFEe-efVIzPBiPCG19jqYs3xJTi/view?usp=sharing){:target="_blank"}
 
+## Estágio Obrigatório
+
+## Atividades Complementares
+
+## Matriz Curricular
+
+## Pré-requisitos
+
 <!-- You can use the [editor on GitHub](https://github.com/ADSVilhena/ADSVilhena.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
