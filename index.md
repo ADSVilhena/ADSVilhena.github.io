@@ -1,4 +1,8 @@
 ## Documentos para Trabalho de Conclusão de Curso
+Para iniciar o Trabalho de Conclusão de Curso, os discentes devem entregar dois documentos na coordenação de curso: o termo de aceite de orientação, preenchido e assinado pelo seu orientador, assim como o termo de compromisso do acadêmico, assinado pelo acadêmico.
+
+O Trabalho de Conclusão de Curso é controlado pela coordenação de curso através da ficha de acompanhamento. Esta ficha será mantida pelo orientador e entregue ao coordenador de TCCs bimestralmente e ao final do processo de orientação. Esta ficha também deve ser apresentada sempre que requerida pelo coordenador para fins de avaliação continuada. É importante ressaltar que é **necessário** que a carga-horária das atividades descritas na ficha de acompanhamento totalize no mínimo 80 horas, como pré-requisito para a aprovação do acadêmico no Trabalho de Conclusão de Curso.
+
 1. [Ficha de Acompanhamento](https://drive.google.com/open?id=1xYMvGIEIPx2Od7VLBJAsY-XgtBEC8l6X){:target="_blank"}
 2. [Termo de Aceite de Orientação](https://drive.google.com/file/d/16Vlzgi8sV7i6o7LftX6brEeKzP5aBwSZ/view?usp=sharing){:target="_blank"}
 3. [Termo de Compromisso do Cursista](https://drive.google.com/file/d/1o1OWNuFEe-efVIzPBiPCG19jqYs3xJTi/view?usp=sharing){:target="_blank"}
