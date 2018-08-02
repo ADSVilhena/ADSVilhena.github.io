@@ -2,7 +2,7 @@
 O PPC é um documento que contextualiza e concebe o curso. Ele serve como principal referência para o coordenador de curso e o Núcleo Docente Estruturante. Dada sua importância, aconselha-se que os acadêmicos conhençam o conteúdo deste documento.
 
  - [PPC 2016 a 2017](https://drive.google.com/file/d/1SO7jyiR0_I3PXQCwLWOhWoruCsze3EsL/view?usp=sharing)
- - PPC a partir de 2018
+ - [PPC a partir de 2018](https://drive.google.com/file/d/1Ut1_sUNPZpwAObERxqfLQ-oEqp0Ip5CP/view?usp=sharing)
 
 ## Matriz Curricular
 Atualmente, existem duas matrizes curriculares em execução no curso. A primeira matriz teve início no ano de 2016 e está sendo executada pelos acadêmicos que ingressaram nos anos 2016 e 2017. A segunda matriz, fruto de uma reestruturação que visa executar um curso de maior qualidade, teve início em 2018. Esta matriz será executada pelos acadêmicos que ingressaram no ano de 2018 ou anos posteriores.
