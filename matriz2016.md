@@ -42,3 +42,18 @@
     - Ética Profissional
     - Optativa 2
     - Desenvolvimento de Produto Científico e Tecnológico
+    
+### Optativas
+ - Linguagem de Programação Comercial
+ - Computação em Nuvens
+ - Banco de Dados Avançado
+ - Projetos Avançados de Robótica
+ - Inteligência Empresarial
+ - Fundamentos de Computação Gráfica
+ - Processamento de Imagens
+ - Internet das Coisas e Sociedade
+ - Gestão de Inovações Tecnológicas
+ - Estatística
+ - Atividade Física e Qualidade de Vida do Trabalhador
+ - Desenvolvimento de Jogos
+ - Língua Brasileira de Sinais
