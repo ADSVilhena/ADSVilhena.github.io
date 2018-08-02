@@ -12,52 +12,14 @@ O Trabalho de Conclusão de Curso é controlado pela coordenação de curso atra
 ## Atividades Complementares
 
 ## Matriz Curricular
+Atualmente, existem duas matrizes curriculares em execução no curso. A primeira matriz teve início no ano de 2016 e está sendo executada pelos acadêmicos que ingressaram nos anos 2016 e 2017. A segunda matriz, fruto de uma reestruturação que visa executar um curso de maior qualidade, teve início em 2018. Esta matriz será executada pelos acadêmicos que ingressaram no ano de 2018 ou anos posteriores.
 ### [Matriz 2016](matriz2016.md)
-- 1º semestre
-    - Algoritmos e Linguagem de Programação
-    - Inglês Instrumental
-    - Comunicação e Expressão
-    - Matemática e Estatística Aplicada
-    - Análise e Projetos de Sistemas
-    - Organização de Computadores
-- 2º semestre
-    - Algoritmos Avançados
-    - Programação Orientada a Objetos
-    - Sistemas Operacionais
-    - Análise Orientada a Objetos
-    - Banco de Dados: Modelagem e Projetos
-- 3º semestre
-    - Engenharia de Software
-    - Banco de Dados: Aplicação
-    - Linguagem de Programação Visual
-    - Padrões de Projeto
-    - Tópicos Especiais em Tecnologia I
-- 4º semestre
-    - Gerenciamento de Projetos de Sistemas
-    - Governança de TI
-    - Internet das Coisas
-    - Tecnologia da Informação e Meio Ambiente
-    - Metodologia Científica
-    - Fundamentos de Programação Web
-    - Tópicos Especiais em Tecnologia II
-- 5º semestre
-    - Desenvolvimento para Dispositivos Móveis
-    - Relações Étnico-Raciais e Direitos Humanos
-    - Desenvolvimento de Programação Web
-    - Qualidade e Teste de Software
-    - Redes de Computadores: Infraestrutura
-    - Optativa 1
-    - Desenvolvimento de Projeto Científico e Tecnológico
-- 6º semestre
-    - Segurança da Informação
-    - Redes de Computadores: Servidores e Aplicações
-    - Gestão Empresarial
-    - Inclusão Social e Digital
-    - Ética Profissional
-    - Optativa 2
-    - Desenvolvimento de Produto Científico e Tecnológico
+### [Matriz 2018](matriz2018.md)
 
 ## Pré-requisitos
+Os acadêmicos que executam a Matriz do ano de 2016 não possuem pré-requisitos a cumprir. Isto implica que existe a liberdade de que eles matriculem-se em qualquer disciplina oferecida pelo curso, que esteja contemplada em sua matriz curricular. No entanto, se o acadêmico houver reprovado de alguma disciplina, é importante que busque o aconselhamento dos professores e do coordenador de curso com relação a matrícula, para que sejam instruídos das dificuldades de cursarem algumas disciplinas sem terem completado disciplinas anteriores.
+
+Os pré-requisitos para a Matriz 2018 podem ser acessados [aqui](prerequisitos2018.md).
 
 <!-- You can use the [editor on GitHub](https://github.com/ADSVilhena/ADSVilhena.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
