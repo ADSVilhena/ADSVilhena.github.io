@@ -12,7 +12,7 @@ O Trabalho de Conclusão de Curso é controlado pela coordenação de curso atra
 ## Atividades Complementares
 
 ## Matriz Curricular
-### Matriz 2016
+### [Matriz 2016](matriz2016.md)
 - 1º semestre
     - Algoritmos e Linguagem de Programação
     - Inglês Instrumental
