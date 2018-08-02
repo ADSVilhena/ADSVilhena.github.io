@@ -11,7 +11,7 @@ Os acadêmicos que executam a Matriz do ano de 2016 não possuem pré-requisitos
 Os pré-requisitos para a Matriz 2018 podem ser acessados [aqui](prerequisitos2018.md).
 
 ## Trabalho de Conclusão de Curso (TCC)
-A matricula do aluno no Trabalho de Conclusão de Curso está vinculada ao cumprimento de pelo menos 75% dos demais componentes curriculares quando o prazo de início não estiver expresso no Projeto Pedagógico do Curso. Em termos práticos, isto significa que os acadêmicos podem se matricular no TCC a partir do quinto semestre do curso, desde que tenham cumprido todas as disciplinas anteriores, ou a partir do momento que tiver cumprido 28 das 37 disciplinas para os alunos que ingressaram em 2016 e 2017, ou 26 das 34 disciplinas para os alunos que ingressaram a partir de 2018.
+A matricula do aluno no Trabalho de Conclusão de Curso está vinculada ao cumprimento de pelo menos 75% dos demais componentes curriculares quando o prazo de início não estiver expresso no Projeto Pedagógico do Curso. Em termos práticos, isto significa que os acadêmicos podem se matricular no TCC a partir do quinto semestre do curso, desde que tenham cumprido todas as disciplinas anteriores, ou a partir do momento que tiverem cumprido 28 das 37 disciplinas para os alunos que ingressaram em 2016 e 2017, ou 26 das 34 disciplinas para os alunos que ingressaram a partir de 2018.
 
 Em conformidade com o [regulamento da instituição](https://drive.google.com/file/d/1Y7W--bNQhib6z3BuQVvPQE4Oe_ZYrqBN/view?usp=sharing){:target="_blank"}, o Trabalho de Conclusão de Curso é uma atividade curricular pautada em atividades devidamente orientadas por profissionais lotados no âmbito do curso segundo o predisposto no regulamento da instituição. No caso específico deste curso, o Trabalho de Conclusão de Curso tem duração mínima de 80 horas e constitui-se na elaboração de uma solução tecnológica para um problema com consequente elaboração de trabalho escrito pelo aluno com coautoria do professor orientador a ser apresentado e avaliado perante banca examinadora, de acordo com o regulamento da Instituição. O trabalho escrito deverá seguir as modalidades previstas no regulamento da instituição.
 
@@ -23,6 +23,9 @@ O Trabalho de Conclusão de Curso é controlado pela coordenação de curso atra
 1. [Ficha de Acompanhamento](https://drive.google.com/open?id=1xYMvGIEIPx2Od7VLBJAsY-XgtBEC8l6X){:target="_blank"}
 2. [Termo de Aceite de Orientação](https://drive.google.com/file/d/16Vlzgi8sV7i6o7LftX6brEeKzP5aBwSZ/view?usp=sharing){:target="_blank"}
 3. [Termo de Compromisso do Cursista](https://drive.google.com/file/d/1o1OWNuFEe-efVIzPBiPCG19jqYs3xJTi/view?usp=sharing){:target="_blank"}
+
+### Fluxograma do TCC 
+Baixe o fluxograma [aqui](https://drive.google.com/file/d/1E7w3rT8TeIjPoFM4UkKkv0f9flDYuFLt/view?usp=sharing).
 
 ## Estágio Curricular Supervisionado
 O Estagio Curricular terá por objetivo propiciar ao aluno, uma experiência profissional supervisionada, possibilitando o desenvolvimento de suas habilidades, seu aprimoramento pessoal e profissional e sua inserção na vida profissional. No âmbito deste curso, o Estágio Curricular Supervisionado tem duração mínima de 100 horas e é normatizado pela [Resolução 79/CONSUP/IFRO/2016](https://drive.google.com/file/d/1is99LyOYpzHprO--sNzq8HeohDBxL2Hi/view?usp=sharing). 
