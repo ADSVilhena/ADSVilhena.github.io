@@ -1,7 +1,7 @@
 ## Documentos para Trabalho de Conclusão de Curso
-1. [Ficha de Acompanhamento](https://drive.google.com/open?id=1xYMvGIEIPx2Od7VLBJAsY-XgtBEC8l6X)
-2. [Termo de Aceite de Orientação](https://drive.google.com/file/d/16Vlzgi8sV7i6o7LftX6brEeKzP5aBwSZ/view?usp=sharing)
-3. [Termo de Compromisso do Cursista](https://drive.google.com/file/d/1o1OWNuFEe-efVIzPBiPCG19jqYs3xJTi/view?usp=sharing)
+1. [Ficha de Acompanhamento](https://drive.google.com/open?id=1xYMvGIEIPx2Od7VLBJAsY-XgtBEC8l6X){:target="_blank"}
+2. [Termo de Aceite de Orientação](https://drive.google.com/file/d/16Vlzgi8sV7i6o7LftX6brEeKzP5aBwSZ/view?usp=sharing){:target="_blank"}
+3. [Termo de Compromisso do Cursista](https://drive.google.com/file/d/1o1OWNuFEe-efVIzPBiPCG19jqYs3xJTi/view?usp=sharing){:target="_blank"}
 
 <!-- You can use the [editor on GitHub](https://github.com/ADSVilhena/ADSVilhena.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
