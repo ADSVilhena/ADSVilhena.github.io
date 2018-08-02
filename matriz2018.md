@@ -1,0 +1,51 @@
+## Matriz 2016
+- 1º semestre
+    - Algoritmos e Lógica de Programação (80)
+    - Inglês Instrumental (80)
+    - Língua Portuguesa Aplicada (40)
+    - Matemática Computacional (80)
+    - Levantamento de Requisitos (40)
+    - Organização de Computadores (40)
+    - Fundamentos de Tecnologia da Informação (40)
+- 2º semestre
+    - Línguagem de Programação (120)
+    - Sistemas Operacionais (80)
+    - Análise Orientada a Objetos (80)
+    - Banco de Dados: Modelagem e Projetos (80)
+    - Metodologia do Projeto Integrador e Extensão (40)
+- 3º semestre
+    - Engenharia de Software (80)
+    - Banco de Dados: Aplicação (80)
+    - Fundamentos de Redes de Computadores (80)
+    - Programação Orientada a Objetos (80)
+    - Estrutura de Dados (80)
+- 4º semestre
+    - Gestão de Tecnologia da Informação (40)
+    - Redes: Segurança e Serviços (80)
+    - Programação Web: Front-end (80)
+    - Metodologia do Trabalho Científico (40)
+    - Tópicos Especiais I (80)
+    - Projeto Integrador e Extensão I (80)
+- 5º semestre
+    - Desenvolvimento para Dispositivos Móveis (80)
+    - Programação Web: Back-end (80)
+    - Internet das Coisas (80)
+    - Probabilidade e Estatística (80)
+    - Projeto Integrador e Extensão II (80)
+- 6º semestre
+    - Empreendedorismo e Inovação (80)
+    - Qualidade e Teste de Software (40)
+    - Ética, Sociedade e Sustentabilidade (40)
+    - Tópicos Especiais II (80)
+    - Frameworks (80)
+    - Optativa I (80)
+    
+### Optativas (80 horas)
+ - Libras
+ - Relações Étnico-Raciais e Direitos Humanos
+ - Mineração de Dados
+ - Interface Homem-Computador
+ - Fundamentos de Computação Gráfica
+ - Introdução ao Desenvolvimento de Jogos
+ - Sistemas de Apoio à Decisão
+ - Inteligência Artificial
