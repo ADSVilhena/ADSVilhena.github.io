@@ -38,6 +38,7 @@ Os acadêmicos que ingressaram no curso nos anos de 2016 e 2017 são considerado
 
 ### Modelo de Relatório de Estágio
 Faça o *download* do modelo de relatório de estágio [aqui](https://drive.google.com/file/d/1mis2kClFbSr-OXhG4kj9y1WtEYcq7y6P/view?usp=sharing)
+<!-- Clique [aqui](docs-estagio.md) para acessar os demais documentos relacionados.-->
 
 ### Aproveitamento das Atividades Profissionais
 O estudante que exercer atividade profissional correlata ao seu curso na condição de empregado, empresário ou autônomo, poderá solicitar, no momento em que se exige o cumprimento do Estágio Obrigatório no respectivo curso, o aproveitamento das atividades profissionais como Estágio Obrigatório [+ leia mais](https://drive.google.com/file/d/1is99LyOYpzHprO--sNzq8HeohDBxL2Hi/view?usp=sharing).
