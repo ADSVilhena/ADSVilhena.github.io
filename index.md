@@ -37,6 +37,7 @@ O colegiado do curso aprovou a utilização de modelos pré-existentes para a el
  - [Modelo para Monografia/Relatório Técnico (Word)](https://drive.google.com/file/d/1S2C-1ESf7XwYFCEboTN10sjQ_MSg7dRs/view?usp=sharing)
  - [Modelo para Monografia/Relatório Técnico (LaTeX)](https://drive.google.com/file/d/1-1AbEHaMzHmBhIvj_Smt8J3cpEHDRV2v/view?usp=sharing)
  - [Modelo para Elaboração de Artigos](https://drive.google.com/file/d/15iVio5f4Z5tEJYGLvcmIaE8M90O6m7Vy/view?usp=sharing)
+ - [Modelo em PDF](https://drive.google.com/file/d/1bVlpDlKoPc9RyQww3b2kjhspaKWjf14D/view?usp=sharing)
 
 ## Estágio Curricular Supervisionado
 O Estagio Curricular terá por objetivo propiciar ao aluno, uma experiência profissional supervisionada, possibilitando o desenvolvimento de suas habilidades, seu aprimoramento pessoal e profissional e sua inserção na vida profissional. No âmbito deste curso, o Estágio Curricular Supervisionado tem duração mínima de 100 horas e é normatizado pela [Resolução 79/CONSUP/IFRO/2016](https://drive.google.com/file/d/1is99LyOYpzHprO--sNzq8HeohDBxL2Hi/view?usp=sharing). 
