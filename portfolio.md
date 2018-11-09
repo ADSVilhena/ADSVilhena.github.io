@@ -14,6 +14,9 @@
 ## II Infoparty
 ![Campus São Paulo](imgs/II-infoparty-dezembro-2017.jpeg)
 
+## 7º Seminário de Iniciação Científica do Campus Colorado do Oeste
+![Seminário de Iniciação Científica do Campus Colorado do Oeste](imgs/sic-2017.jpeg)
+
 # 2018
 ## Campus São Paulo, São Paulo
 ![Campus São Paulo](imgs/campus-sao-paulo-janeiro-2018.jpeg)
