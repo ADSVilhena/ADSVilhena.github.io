@@ -32,7 +32,7 @@ O Trabalho de Conclusão de Curso é controlado pela coordenação de curso atra
 6. [Ficha de Avaliação da Banca Examinadora](https://drive.google.com/file/d/1XfG18P0ymByiS5Ek6akUxQ3k4iBY2rj_/view?usp=sharing){:target="_blank"}
 7. [Ficha de Apuração da Banca Examinadora](https://drive.google.com/file/d/10-OjmoSW5ykFRAUcnTdY4vgz2wF_WAxM/view?usp=sharing){:target="_blank"}
 8. [Ata de Defesa Pública de Trabalho de Conclusão de Curso](https://drive.google.com/file/d/1Nr2HFpjgT17QfuOSEd4TgNGWLJODx3ZP/view?usp=sharing){:target="_blank"}
-
+9. [Comunicado de Defesa Pública de Trabalho de Conclusão de Curso](https://drive.google.com/file/d/19jfLPNTXgLNNckHOzJwwY-XTgadUi8oJ/view?usp=sharing){:target="_blank"}
 
 ### Fluxograma do TCC 
 Baixe o fluxograma [aqui](https://drive.google.com/file/d/1E7w3rT8TeIjPoFM4UkKkv0f9flDYuFLt/view?usp=sharing).
