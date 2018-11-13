@@ -27,6 +27,12 @@ O Trabalho de Conclusão de Curso é controlado pela coordenação de curso atra
 1. [Ficha de Acompanhamento](https://drive.google.com/open?id=1xYMvGIEIPx2Od7VLBJAsY-XgtBEC8l6X){:target="_blank"}
 2. [Termo de Aceite de Orientação](https://drive.google.com/file/d/16Vlzgi8sV7i6o7LftX6brEeKzP5aBwSZ/view?usp=sharing){:target="_blank"}
 3. [Termo de Compromisso do Cursista](https://drive.google.com/file/d/1o1OWNuFEe-efVIzPBiPCG19jqYs3xJTi/view?usp=sharing){:target="_blank"}
+4. [Parecer do Professor Orientador](https://drive.google.com/file/d/1cUZrExeLEKszPKg6egzLIO-y3LdJzghQ/view?usp=sharing){:target="_blank"}
+5. [Declaração de Aptidão para Defesa de Trabalho de Conclusão de Curso](https://drive.google.com/file/d/1ed-4zryyzZMPrbZFOtF8TB-xqEFXYKwU/view?usp=sharing){:target="_blank"}
+6. [Ficha de Avaliação da Banca Examinadora](https://drive.google.com/file/d/1XfG18P0ymByiS5Ek6akUxQ3k4iBY2rj_/view?usp=sharing){:target="_blank"}
+7. [Ficha de Apuração da Banca Examinadora](https://drive.google.com/file/d/10-OjmoSW5ykFRAUcnTdY4vgz2wF_WAxM/view?usp=sharing){:target="_blank"}
+8. [Ata de Defesa Pública de Trabalho de Conclusão de Curso](https://drive.google.com/file/d/1Nr2HFpjgT17QfuOSEd4TgNGWLJODx3ZP/view?usp=sharing){:target="_blank"}
+
 
 ### Fluxograma do TCC 
 Baixe o fluxograma [aqui](https://drive.google.com/file/d/1E7w3rT8TeIjPoFM4UkKkv0f9flDYuFLt/view?usp=sharing).
