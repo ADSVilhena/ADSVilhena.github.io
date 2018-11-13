@@ -1,7 +1,7 @@
 # 2016
 ## Apresentação de Projeto de Ensino
 ### Linguagem literária e cinematográfica: olhares críticos e tecnológicos direcionados ao continente africano
-![Apresentação de Projeto de Ensino](imgs/ens11.jpeg)s
+![Apresentação de Projeto de Ensino](imgs/ens11.jpeg)sgi
 [+ fotos](ens1rosa.md)
 
 # 2017
@@ -36,7 +36,6 @@ As equipes formadas representam os funcionários de uma Empresa Multinacional no
 ## Apresentação da Disciplina de Língua Portuguesa Aplicada
 Projeto de Ensino "O desvendar de romances angolanos: as tecnologias em prol da leitura dos clássicos".
 ![Apresentação de Projeto de Ensino](imgs/ens31.jpeg)
-![Apresentação de Projeto de Ensino](imgs/ens32.jpeg)
 [+ fotos](ens3rosa.md)
 
 ## Campus São Paulo, São Paulo
