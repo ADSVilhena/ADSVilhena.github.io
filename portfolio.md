@@ -1,7 +1,7 @@
 # 2016
 ## Apresentação de Projeto de Ensino
 ### Linguagem literária e cinematográfica: olhares críticos e tecnológicos direcionados ao continente africano
-![Apresentação de Projeto de Ensino](imgs/ens11.jpeg)sgi
+![Apresentação de Projeto de Ensino](imgs/ens11.jpeg)
 [+ fotos](ens1rosa.md)
 
 # 2017
