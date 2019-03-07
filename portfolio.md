@@ -46,3 +46,9 @@ Projeto de Ensino "O desvendar de romances angolanos: as tecnologias em prol da 
 
 ## Campus Party Rondônia, Porto Velho
 ![Campus São Paulo](imgs/campus-party-rondonia-agosto-2018.jpeg)
+
+## Congresso Norte-Nordeste de Pesquisa e Inovação (CONNEPI)
+![connepi2018](imgs/connepi2018.jpeg)
+
+## Congresso de Ensino Pesquisa e Extensão do IFRO (CONPEX)
+![conpex2018](imgs/conpex2018.jpeg)
