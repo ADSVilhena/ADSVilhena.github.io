@@ -2,12 +2,15 @@
 O PPC é um documento que contextualiza e concebe o curso. Ele serve como principal referência para o coordenador de curso e o Núcleo Docente Estruturante. Dada sua importância, aconselha-se que os acadêmicos conhençam o conteúdo deste documento.
 
  - [PPC 2016 a 2017](https://drive.google.com/file/d/1SO7jyiR0_I3PXQCwLWOhWoruCsze3EsL/view?usp=sharing)
- - [PPC a partir de 2018](https://drive.google.com/file/d/1Ut1_sUNPZpwAObERxqfLQ-oEqp0Ip5CP/view?usp=sharing)
+ - [PPC 2018 a 2020](https://drive.google.com/file/d/1Ut1_sUNPZpwAObERxqfLQ-oEqp0Ip5CP/view?usp=sharing)
+ - [PPC a partir de 2021](https://drive.google.com/file/d/1LPxA7AgDKuWIzNRrszVpIabJhgZScrxv/view?usp=sharing)
 
 ## Matriz Curricular
-Atualmente, existem duas matrizes curriculares em execução no curso. A primeira matriz teve início no ano de 2016 e está sendo executada pelos acadêmicos que ingressaram nos anos 2016 e 2017. A segunda matriz, fruto de uma reestruturação que visa executar um curso de maior qualidade, teve início em 2018. Esta matriz será executada pelos acadêmicos que ingressaram no ano de 2018 ou anos posteriores.
+Atualmente, existem três matrizes curriculares em execução no curso. A primeira matriz teve início no ano de 2016 e está sendo executada pelos acadêmicos que ingressaram nos anos 2016 e 2017. A segunda matriz, fruto de uma reestruturação que visa executar um curso de maior qualidade, teve início em 2018, e esteve ativa até 2020. A partir de 2021 foi realizada uma nova restruturação do curso. Esta matriz será executada pelos acadêmicos que ingressaram no ano de 2021 ou anos posteriores.
 ### [Matriz 2016](matriz2016.md)
 ### [Matriz 2018](matriz2018.md)
+### [Matriz 2021](matriz2021.md)
+
 
 ## Pré-requisitos
 Os acadêmicos que executam a Matriz do ano de 2016 não possuem pré-requisitos a cumprir. Isto implica que existe a liberdade de que eles matriculem-se em qualquer disciplina oferecida pelo curso, que esteja contemplada em sua matriz curricular. No entanto, se o acadêmico houver reprovado de alguma disciplina, é importante que busque o aconselhamento dos professores e do coordenador de curso com relação a matrícula, para que sejam instruídos das dificuldades de cursarem algumas disciplinas sem terem completado disciplinas anteriores.
